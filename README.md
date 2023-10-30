@@ -19,5 +19,5 @@
 
   HW2 架設動態網站 : [HW2 建立動態網站](https://youtu.be/I-LBKngCgKE)
 
-  HW3 JavaScript小作品 : [HW3](https://youtu.be/HIRP7oAYa10)
+  HW3 JavaScript小作品 : [HW3 製作JavaScript小作品](https://youtu.be/HIRP7oAYa10)
 ## 專題連結區
